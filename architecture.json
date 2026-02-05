@@ -1,0 +1,161 @@
+{
+  "book_id": "classical_greek_naturalist_tradition_innovation",
+  "title": "The Soil and the Syllogism",
+  "tagline": "A father and son dissect the natural world, only to find themselves dissected by the philosophies they despise.",
+  "target_words": 70000,
+  "actual_words": 80793,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Empirical Observation vs. Abstract Philosophy",
+    "The Morality of Dissection",
+    "Tradition as a Living System",
+    "Innovation as Heresy",
+    "The Cost of Pure Knowledge"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Bruise-Coloured Sea",
+      "words": 3366
+    },
+    {
+      "ch": 2,
+      "title": "The Taste of Truth",
+      "words": 3366
+    },
+    {
+      "ch": 3,
+      "title": "The Symposium of Soil",
+      "words": 3366
+    },
+    {
+      "ch": 4,
+      "title": "The Anatomy of a Stream",
+      "words": 3366
+    },
+    {
+      "ch": 5,
+      "title": "The Library of Leaves",
+      "words": 3366
+    },
+    {
+      "ch": 6,
+      "title": "The Form of the Frog",
+      "words": 3366
+    },
+    {
+      "ch": 7,
+      "title": "The Calculus of Decay",
+      "words": 3366
+    },
+    {
+      "ch": 8,
+      "title": "The City of Marble Words",
+      "words": 3366
+    },
+    {
+      "ch": 9,
+      "title": "The Dissection of a Dialogue",
+      "words": 3366
+    },
+    {
+      "ch": 10,
+      "title": "The Blood of the Mountain",
+      "words": 3366
+    },
+    {
+      "ch": 11,
+      "title": "The Ledger of Life",
+      "words": 3366
+    },
+    {
+      "ch": 12,
+      "title": "The Fracture",
+      "words": 3366
+    },
+    {
+      "ch": 13,
+      "title": "The Unmarked Grave",
+      "words": 3366
+    },
+    {
+      "ch": 14,
+      "title": "The New Ritual",
+      "words": 3366
+    },
+    {
+      "ch": 15,
+      "title": "The Catalogue of Errors",
+      "words": 3366
+    },
+    {
+      "ch": 16,
+      "title": "The Prison of Principle",
+      "words": 3366
+    },
+    {
+      "ch": 17,
+      "title": "The Experiment",
+      "words": 3366
+    },
+    {
+      "ch": 18,
+      "title": "The Witness of the Worm",
+      "words": 3366
+    },
+    {
+      "ch": 19,
+      "title": "The Trial of the Tangible",
+      "words": 3366
+    },
+    {
+      "ch": 20,
+      "title": "The Axiom of Action",
+      "words": 3366
+    },
+    {
+      "ch": 21,
+      "title": "The Unwritten Law",
+      "words": 3366
+    },
+    {
+      "ch": 22,
+      "title": "The Harvest",
+      "words": 3366
+    },
+    {
+      "ch": 23,
+      "title": "The Final Measurement",
+      "words": 3366
+    },
+    {
+      "ch": 24,
+      "title": "The New Physis",
+      "words": 3366
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where Philo uses his father's empirical method to solve a social or political problem in the city, infuriating the traditional philosophers.",
+      "Create a dialogue between Leonidas and a priest of Asclepius about the nature of disease: is it an imbalance of humors or a tangible entity to be catalogued?",
+      "Draft a 'field note' entry from Philo's journal describing a common animal (e.g., a dog) purely through measurable, observable data, stripping all metaphor and cultural association.",
+      "Imagine a confrontation where a character inspired by Philo's methods attempts to apply them to something Leonidas considered sacrosanct—like the memory of Philo's mother."
+    ],
+    "technical": [
+      "Design a 'Naturalist's Codex' system: a structured, non-linear database for cataloguing observations (soil samples, weather, flora/fauna) that allows for linking cause and effect, inspired by Leonidas's ledger worldview.",
+      "Build a 'Socratic Debugger': a dialogue-based tool that helps identify flaws in an argument or process by asking iterative, probing questions, mirroring the philosophical challenges Philo faces."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Aristotle",
+      "Theophrastus",
+      "Heraclitus",
+      "Empedocles"
+    ]
+  },
+  "cover_prompt": "A father and son, their faces etched with intense focus and a growing philosophical rift, meticulously dissect a complex, luminous plant specimen that seems to glow from within, its roots entwined with ancient Greek scrolls and geometric diagrams, set within a grand but cluttered 19th-century naturalist's study where classical busts observe shelves containing both preserved biological specimens and leather-bound philosophical treatises, in the atmospheric and detailed style of a synthesis between the naturalist illustrations of Ernst Haeckel and the dramatic chiaroscuro of Caravaggio, book cover framing, a centered and symmetrical composition viewed from a low, dramatic angle that makes the dissection table an altar of knowledge, stark, dramatic chiaroscuro lighting with a color palette of deep umber, earthy greens, parchment yellow, and the ethereal bioluminescent blue of the specimen, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
