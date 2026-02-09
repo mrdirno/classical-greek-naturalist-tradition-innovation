@@ -2,7 +2,8 @@
 
 ## **Chapter 1**
 
-The sea was not blue that morning. It was the colour of a bruise, a deep and mottled purple-black where it met the sky, fading to the grey-green of weathered bronze where it slapped against the hull. The air tasted of wet stone and salt, and it carried the sound of the oars from the trireme ahead of us—a rhythmic, metallic cough as the looms struck the thole pins, a sound like a diseased heart beating. I stood at the stern of our smaller, broader boat, my feet braced against the swell, and watched the slave ship pull away from us. They were making for the open water beyond the headland, to catch the morning wind. We were turning in, toward the shore of Thasos.
+Aristotle’s shadow stretched long across the Lyceum’s colonnade, but Theophrastus saw only the leaf. Its veins defied the master’s categories—a silent rebellion pressed between papyrus and thumb.
+
 
 “You’re judging the stroke, aren’t you?” My father’s voice was a low rumble beside me, not unlike the sea under the hull. He didn’t turn his head. His eyes, the same flint-grey as the sky, were fixed on the receding ship. “Counting the lag between the port and starboard banks.”
 
